@@ -23,8 +23,8 @@
 }
 
 .bio-img {
-  width: 150px;
-  height: 150px;
+  width: 140px;
+  height: 140px;
   object-fit: cover;
   border-radius: 50%;
 }
