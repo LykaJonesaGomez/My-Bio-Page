@@ -35,3 +35,14 @@
   margin-bottom: 0.5rem;
   color: #004080;
 }
+
+.bio-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.4rem 1rem;
+  background-color: #004080;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
