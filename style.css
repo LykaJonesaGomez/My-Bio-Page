@@ -27,3 +27,11 @@
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
+}
+  
+.bio-name {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #004080;
+}
